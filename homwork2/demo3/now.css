@@ -1,0 +1,64 @@
+body {
+    margin:0;
+
+}
+
+.box {
+    height: 600px;
+    background: #34cc9d;
+    display: flex;
+
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.beby {
+    width: 250px;
+    height: 400px;
+    background: #141e27;
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+}
+
+.fa-quote-right {
+
+    margin-top: 50px;
+    text-align: center;
+    display: block;
+    color: #34cc9d;
+    font-size: 80px;
+}
+
+.txt {
+    color: wheat;
+    font-family: Candara,sans-serif;
+    text-align: center;
+    width: 80%;
+     }
+.photo-box{
+
+    width: 50%;
+
+
+}
+.imaje {
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    box-sizing: border-box;
+
+}.name{
+    color: #35cd9f;
+    font-family: Candara,sans-serif;
+    font-size:20px ;
+    margin-top:10px ;
+    font-weight:300;
+
+
+ }
+
+
+
