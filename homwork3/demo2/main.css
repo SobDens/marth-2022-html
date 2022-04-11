@@ -1,0 +1,35 @@
+.box{
+    width: 700px;
+    height: 400px;
+    background: #112233;
+
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+    margin-top: 100px;
+
+    position: relative;
+}
+.koob {
+    width: 100px;
+    height:100px;
+    background: blue;
+    display: block;
+    border: 3px solid black;
+    margin: 50px;
+    margin-bottom:-50px;
+}
+.koob2{
+    width: 70px;
+    height: 30px;
+    background:blue ;
+    display:flex;
+    border:3px solid black;
+
+
+
+}
+
+
+
+
