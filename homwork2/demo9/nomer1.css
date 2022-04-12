@@ -1,9 +1,0 @@
-.menu{
-    display: flex;
-    list-style: none;
-    background: silver;
-
-}
-.menu>li{
-    margin: 20px;
-}

@@ -1,0 +1,17 @@
+@media screen and  (min-width:0) and (max-width:1200px) {
+    .wrap{
+        flex-direction: column;
+    }
+    .a{
+        height: 50px;
+    }
+    .b{
+        height: 500px;
+        width: 100%;
+    }
+    .c{
+        height: 50px;
+        width: 100%;
+    }
+}
+

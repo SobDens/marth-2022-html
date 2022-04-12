@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    background: silver;
+}
+.container {
+    width: 100%;
+    height: 600px;
+    background: #35cd9f;
+}
+.a{
+    width: 100%;
+    height: 100px;
+    background: orange;
+
+}
+
+.wrap{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction:row ;
+}
+.b{
+    width: 75%;
+    height: 300px;
+    background: #12406c;
+}
+.c{
+    width: 25%;
+    height: 300px;
+    background: #141e27;
+}
